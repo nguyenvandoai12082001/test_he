@@ -50,7 +50,8 @@ int main()
    
     }
    helo quy vi va cac bon 
-    
+
+    xin chào nguyenvansua
     
 } 
 
